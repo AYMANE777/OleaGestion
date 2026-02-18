@@ -1,0 +1,94 @@
+[01-Nov-2025 20:26:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id_bon_huile' in 'WHERE' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php:121
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php(121): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php on line 121
+[01-Nov-2025 20:26:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id_bon_huile' in 'WHERE' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php:121
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php(121): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php on line 121
+[01-Nov-2025 20:27:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id_bon_huile' in 'WHERE' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php:121
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php(121): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php on line 121
+[01-Nov-2025 20:27:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id_bon_huile' in 'WHERE' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php:121
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php(121): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php on line 121
+[01-Nov-2025 20:27:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id_bon_huile' in 'WHERE' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php:121
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php(121): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php on line 121
+[01-Nov-2025 20:27:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id_bon_huile' in 'WHERE' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php:121
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php(121): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php on line 121
+[01-Nov-2025 20:27:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.id_bon_huile' in 'WHERE' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php:121
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php(121): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon-huile.php on line 121
+[03-Nov-2025 09:52:45 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon.php on line 238
+[03-Nov-2025 09:52:48 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon.php on line 238
+[03-Nov-2025 09:52:48 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon.php on line 238
+[03-Nov-2025 09:52:49 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon.php on line 238
+[03-Nov-2025 09:52:51 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/print-bidon.php on line 238
+[10-Nov-2025 10:26:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/fournisseur-status.php(5): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:26:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/fournisseur-status.php(5): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:26:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/fournisseur-status.php(5): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:26:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/fournisseur-status.php(5): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:26:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/fournisseur-status.php(5): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:26:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/fournisseur-status.php(5): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:26:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/fournisseur-status.php(5): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:26:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/fournisseur-status.php(5): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:27:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/reglement-status/fournisseur-status.php(5): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13

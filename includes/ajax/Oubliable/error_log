@@ -1,0 +1,220 @@
+[18-Oct-2025 12:47:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query(Object(mysqli), 'SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[18-Oct-2025 12:47:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query(Object(mysqli), 'SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[18-Oct-2025 13:14:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[18-Oct-2025 13:14:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[18-Oct-2025 13:15:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[18-Oct-2025 13:15:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[18-Oct-2025 13:15:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[18-Oct-2025 13:15:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[18-Oct-2025 13:15:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[18-Oct-2025 13:16:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:40
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(40): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 40
+[18-Oct-2025 13:16:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:40
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(40): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 40
+[20-Oct-2025 10:03:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.ForgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[20-Oct-2025 10:04:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.ForgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[20-Oct-2025 10:04:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.ForgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[20-Oct-2025 17:37:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[20-Oct-2025 17:47:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[21-Oct-2025 09:42:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[21-Oct-2025 09:54:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[21-Oct-2025 16:32:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[21-Oct-2025 16:32:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[21-Oct-2025 16:32:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[21-Oct-2025 16:32:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[21-Oct-2025 16:32:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[21-Oct-2025 16:33:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:22
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(22): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 22
+[21-Oct-2025 16:35:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:35:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:37:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:37:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:37:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:37:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:37:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:37:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:38:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:41:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[21-Oct-2025 16:41:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterclient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[29-Oct-2025 14:26:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[29-Oct-2025 14:32:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[30-Oct-2025 16:48:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[08-Nov-2025 10:42:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[08-Nov-2025 10:42:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[08-Nov-2025 11:39:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[08-Nov-2025 19:34:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[10-Nov-2025 17:26:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23
+[10-Nov-2025 17:35:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.forgeterClient' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php:23
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php(23): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Oubliable/getClientOublier.php on line 23

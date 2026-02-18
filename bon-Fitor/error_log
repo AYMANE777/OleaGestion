@@ -1,0 +1,176 @@
+[18-Oct-2025 12:40:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php on line 11
+[18-Oct-2025 12:40:14 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 12:40:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 12:40:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php on line 11
+[18-Oct-2025 12:40:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php on line 11
+[18-Oct-2025 12:41:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php on line 11
+[18-Oct-2025 12:41:17 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 12:41:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 12:48:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter.php on line 11
+[18-Oct-2025 12:49:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php on line 11
+[18-Oct-2025 12:51:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php on line 11
+[18-Oct-2025 12:51:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php on line 11
+[18-Oct-2025 12:51:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php on line 11
+[18-Oct-2025 12:51:55 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 12:51:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 13:11:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php(11): mysqli_query()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php on line 11
+[18-Oct-2025 13:12:26 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 13:12:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 15:28:23 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 15:28:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 16:53:34 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 16:53:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 17:42:28 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[18-Oct-2025 17:42:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 09:55:59 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 09:55:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 09:56:03 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 09:56:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 10:02:19 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 10:02:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 10:24:16 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 10:24:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 10:24:31 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 10:24:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 10:47:31 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 10:47:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[20-Oct-2025 11:27:34 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:27:34 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/liste-chauffeur.php(5): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:28:21 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:28:21 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/liste-chauffeur.php(5): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:28:51 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:28:51 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/liste-chauffeur.php(5): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:29:00 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:29:00 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/liste-chauffeur.php(5): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:29:05 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:29:05 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/liste-chauffeur.php(5): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:30:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Bon_Rue' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:85
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(85): mysqli_query()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#2 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/liste-chauffeur.php(5): require('/home2/omnevama...')
+#3 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 85
+[20-Oct-2025 11:31:49 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:31:49 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php(6): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:32:00 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:32:00 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/ajouter-Fitor.php(6): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[21-Oct-2025 11:20:37 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[21-Oct-2025 11:20:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[23-Oct-2025 18:07:25 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[23-Oct-2025 18:07:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[23-Oct-2025 18:07:27 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[23-Oct-2025 18:07:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[25-Oct-2025 14:25:49 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[25-Oct-2025 14:25:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[27-Oct-2025 12:57:07 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[27-Oct-2025 12:57:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[28-Oct-2025 10:45:21 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[28-Oct-2025 10:45:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[28-Oct-2025 12:00:25 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[28-Oct-2025 12:00:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[29-Oct-2025 09:42:54 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[29-Oct-2025 09:42:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[29-Oct-2025 12:22:13 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[29-Oct-2025 12:22:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[29-Oct-2025 12:22:39 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[29-Oct-2025 12:22:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[29-Oct-2025 12:22:49 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[29-Oct-2025 12:22:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[30-Oct-2025 15:28:55 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[30-Oct-2025 15:28:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[30-Oct-2025 15:29:17 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[30-Oct-2025 15:29:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[31-Oct-2025 15:15:58 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[31-Oct-2025 15:15:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[31-Oct-2025 15:16:05 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[31-Oct-2025 15:16:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[01-Nov-2025 10:18:50 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[01-Nov-2025 10:18:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[01-Nov-2025 10:18:53 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[01-Nov-2025 10:18:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[01-Nov-2025 10:18:55 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[01-Nov-2025 10:18:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[07-Nov-2025 18:29:39 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[07-Nov-2025 18:29:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[10-Nov-2025 11:21:36 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[10-Nov-2025 11:21:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[12-Nov-2025 11:49:57 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[12-Nov-2025 11:49:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[12-Nov-2025 11:54:49 UTC] PHP Warning:  Undefined variable $QueryGetPatronVersement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215
+[12-Nov-2025 11:54:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-Fitor/versement-Fitour.php on line 215

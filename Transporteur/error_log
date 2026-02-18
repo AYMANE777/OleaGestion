@@ -1,0 +1,70 @@
+[20-Oct-2025 11:30:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Bon_Rue' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:85
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(85): mysqli_query()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#2 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-trans.php(5): require('/home2/omnevama...')
+#3 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 85
+[20-Oct-2025 11:30:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Bon_Rue' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:85
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(85): mysqli_query()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#2 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-vehicule-trans.php(7): require('/home2/omnevama...')
+#3 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 85
+[20-Oct-2025 11:30:34 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:30:34 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-vehicule-trans.php(7): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:30:34 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:30:34 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-vehicule-trans.php(7): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:30:35 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:30:35 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-vehicule-trans.php(7): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:30:35 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:30:35 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-vehicule-trans.php(7): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:30:43 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:30:43 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-trans.php(5): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:31:07 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:31:07 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-trans.php(5): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:31:29 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:31:29 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-trans.php(5): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73
+[20-Oct-2025 11:31:42 UTC] PHP Warning:  Undefined variable $connect in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91
+[20-Oct-2025 11:31:42 UTC] PHP Fatal error:  Uncaught TypeError: auto_desactiver_bons(): Argument #1 ($connect) must be of type mysqli, null given, called in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 91 and defined in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:73
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/Transporteur/add-trans.php(5): require('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 73

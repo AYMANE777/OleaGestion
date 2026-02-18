@@ -1,0 +1,331 @@
+[18-Oct-2025 12:33:01 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 5
+[18-Oct-2025 12:33:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 5
+[18-Oct-2025 12:33:02 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 5
+[18-Oct-2025 12:33:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 5
+[18-Oct-2025 12:33:49 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 17
+[19-Oct-2025 23:14:28 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 10
+[19-Oct-2025 23:14:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 10
+[20-Oct-2025 11:30:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Bon_Rue' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php:85
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(85): mysqli_query()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php(91): auto_desactiver_bons()
+#2 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(11): require('/home2/omnevama...')
+#3 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/head.php on line 85
+[20-Oct-2025 11:34:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Bon_Rue' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/sidebare.php:17
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/sidebare.php(17): mysqli_query()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/sidebare.php(23): auto_desactiver_bons()
+#2 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(13): require('/home2/omnevama...')
+#3 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/sidebare.php on line 17
+[20-Oct-2025 12:30:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php:6
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php on line 6
+[20-Oct-2025 12:30:47 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php on line 6
+[20-Oct-2025 12:30:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php on line 6
+[20-Oct-2025 13:19:53 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php on line 6
+[20-Oct-2025 13:19:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php on line 6
+[20-Oct-2025 13:20:11 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php on line 6
+[20-Oct-2025 13:20:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php on line 6
+[20-Oct-2025 13:21:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'vehiculetrans.image_vehicule' in 'SELECT' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php:60
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php(60): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/transporteur_status.php on line 60
+[22-Oct-2025 09:04:11 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:13 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:17 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:20 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:23 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:26 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:39 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:41 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:41 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:46 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:51 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:04:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:05:01 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:05:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:05:23 UTC] PHP Warning:  require_once(/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php): Failed to open stream: No such file or directory in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[22-Oct-2025 09:05:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/omnevama/public_html/meknassaolive/gestionMeknassa/../config/config.ini.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 3
+[23-Oct-2025 15:21:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'c.telephone' in 'SELECT' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php:15
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 15
+[23-Oct-2025 15:23:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'qr_rue' in 'SELECT' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php:15
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 15
+[23-Oct-2025 15:23:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'qr_rue' in 'SELECT' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php:15
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 15
+[23-Oct-2025 15:23:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'qr_rue' in 'SELECT' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php:15
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 15
+[23-Oct-2025 15:23:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'qr_rue' in 'SELECT' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php:15
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 15
+[23-Oct-2025 15:23:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'qr_rue' in 'SELECT' in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php:15
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 15
+[27-Oct-2025 08:41:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.fournisseur' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php:21
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(21): mysqli->query()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(38): getCount()
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php on line 21
+[29-Oct-2025 17:00:12 Africa/Casablanca] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 182
+[29-Oct-2025 17:00:12 Africa/Casablanca] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 186
+[29-Oct-2025 17:04:58 Africa/Casablanca] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.bon_rue' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php:19
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 19
+[29-Oct-2025 17:05:22 Africa/Casablanca] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.bon_rue' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php:19
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon_rue_status.php on line 19
+[10-Nov-2025 10:22:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:24:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:24:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:24:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:24:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:24:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:24:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:24:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:24:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:25:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:25:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:25:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:25:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/index.php(10): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13

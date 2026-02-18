@@ -1,0 +1,3 @@
+[27-Oct-2025 08:51:11 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/addReglement.php on line 60
+[27-Oct-2025 08:51:27 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/addReglement.php on line 60
+[27-Oct-2025 08:52:01 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/addReglement.php on line 60

@@ -1,0 +1,85 @@
+[18-Oct-2025 12:36:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:36:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:36:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:36:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:36:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:38:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:38:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:38:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:38:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:38:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:38:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:41:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:42:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:42:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:43:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:43:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11
+[18-Oct-2025 12:44:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'Gestion_Meknassa_Olive.Patron' doesn't exist in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php:11
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM P...')
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/bon-oublier/ajouter.php on line 11

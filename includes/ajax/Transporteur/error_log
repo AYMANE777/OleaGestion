@@ -1,0 +1,15 @@
+[20-Oct-2025 11:58:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Transporteur/addTransporteur.php:66
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Transporteur/addTransporteur.php(66): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Transporteur/addTransporteur.php on line 66
+[20-Oct-2025 11:59:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Transporteur/addTransporteur.php:66
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Transporteur/addTransporteur.php(66): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Transporteur/addTransporteur.php on line 66
+[20-Oct-2025 11:59:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Transporteur/addTransporteur.php:66
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Transporteur/addTransporteur.php(66): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/Transporteur/addTransporteur.php on line 66

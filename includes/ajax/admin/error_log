@@ -1,0 +1,14 @@
+[27-Oct-2025 12:34:20 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/admin/getReglementFournisseur.php on line 191
+[27-Oct-2025 12:34:40 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/admin/getReglementFournisseur.php on line 191
+[10-Nov-2025 10:22:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/admin/details_commande_bidon.php(3): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
+[10-Nov-2025 10:24:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php:13
+Stack trace:
+#0 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php(13): mysqli->__construct()
+#1 /home2/omnevama/public_html/meknassaolive/gestionMeknassa/includes/ajax/admin/details_commande_bidon.php(3): require_once('/home2/omnevama...')
+#2 {main}
+  thrown in /home2/omnevama/public_html/meknassaolive/gestionMeknassa/config/config.ini.php on line 13
